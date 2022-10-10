@@ -1,0 +1,20 @@
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\bin\Debug\gp.exe.config
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\bin\Debug\gp.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\bin\Debug\gp.pdb
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.csproj.AssemblyReference.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.Form1.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.Properties.Resources.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.csproj.GenerateResource.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.csproj.CoreCompileInputs.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\gp\gp\obj\Debug\gp.pdb
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\bin\Debug\gp.exe.config
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\bin\Debug\gp.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\bin\Debug\gp.pdb
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.csproj.AssemblyReference.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.Form1.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.Properties.Resources.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.csproj.GenerateResource.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.csproj.CoreCompileInputs.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\vize final\gp\obj\Debug\gp.pdb
