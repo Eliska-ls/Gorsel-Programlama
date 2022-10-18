@@ -1,0 +1,11 @@
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\bin\Debug\12.10.2022.exe.config
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\bin\Debug\12.10.2022.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\bin\Debug\12.10.2022.pdb
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\12.10.2022.csproj.AssemblyReference.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\_12._10._2022.Form1.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\_12._10._2022.Form2.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\_12._10._2022.Properties.Resources.resources
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\12.10.2022.csproj.GenerateResource.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\12.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\12.10.2022.exe
+C:\Users\Emir\OneDrive\Desktop\görsel proglama\12.10.2022\12.10.2022\obj\Debug\12.10.2022.pdb
